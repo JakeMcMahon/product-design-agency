@@ -1,0 +1,188 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ai.productquant.ru/#organization",
+      "name": "AI Automation Russia",
+      "alternateName": "ProductQuant AI",
+      "url": "https://ai.productquant.ru",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://ai.productquant.ru/images/logo.png",
+        "width": 200,
+        "height": 60
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+7-925-211-2802",
+        "contactType": "customer service",
+        "areaServed": "RU",
+        "availableLanguage": "Russian"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "RU",
+        "addressLocality": "Москва",
+        "addressRegion": "Remote Business"
+      },
+      "sameAs": [
+        "https://t.me/productquant",
+        "https://linkedin.com/company/productquant"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ai.productquant.ru/#website",
+      "url": "https://ai.productquant.ru",
+      "name": "AI Automation Russia - Внедрение ИИ для бизнеса",
+      "description": "Профессиональное внедрение искусственного интеллекта в российский бизнес. Автоматизация процессов, анализ документов, чат-боты и персонализированные ИИ-решения.",
+      "publisher": {
+        "@id": "https://ai.productquant.ru/#organization"
+      },
+      "inLanguage": "ru-RU",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://ai.productquant.ru/?search={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://ai.productquant.ru/#webpage",
+      "url": "https://ai.productquant.ru",
+      "name": "AI Automation Russia - Внедрение ИИ для бизнеса",
+      "isPartOf": {
+        "@id": "https://ai.productquant.ru/#website"
+      },
+      "about": {
+        "@id": "https://ai.productquant.ru/#organization"
+      },
+      "description": "Профессиональное внедрение искусственного интеллекта в российский бизнес. Экономия до 40% операционных затрат через автоматизацию процессов.",
+      "breadcrumb": {
+        "@id": "https://ai.productquant.ru/#breadcrumb"
+      },
+      "inLanguage": "ru-RU"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://ai.productquant.ru/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Главная",
+          "item": "https://ai.productquant.ru"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://ai.productquant.ru/#ai-automation-service",
+      "name": "Внедрение ИИ-автоматизации",
+      "description": "Комплексное внедрение искусственного интеллекта для автоматизации бизнес-процессов российских компаний",
+      "provider": {
+        "@id": "https://ai.productquant.ru/#organization"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "Russia"
+      },
+      "availableLanguage": "ru",
+      "serviceType": "AI Automation Consulting",
+      "category": "Artificial Intelligence Services",
+      "offers": {
+        "@type": "Offer",
+        "description": "ИИ-спринты для быстрого внедрения автоматизации",
+        "priceCurrency": "RUB",
+        "priceRange": "800000-8000000",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ai.productquant.ru/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Сколько стоит внедрение ИИ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Стоимость зависит от масштаба проекта: от 800 тысяч рублей для базовой автоматизации до 8+ миллионов для комплексных решений. Мы предлагаем ИИ-спринты для быстрого запуска за 2-4 недели."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Какую экономию дает автоматизация через ИИ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Наши клиенты экономят от 20% до 60% операционных затрат. В среднем ROI составляет 300% в первый год после внедрения ИИ-автоматизации."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Как долго длится внедрение?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ИИ-спринты: 2-4 недели. Полное внедрение корпоративного ИИ: 3-6 месяцев. Мы используем агильный подход для быстрых результатов."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Product",
+      "@id": "https://ai.productquant.ru/#ai-guide",
+      "name": "Руководство по ИИ-автоматизации: 5 паттернов LLM",
+      "description": "Бесплатное руководство по внедрению 5 ключевых паттернов автоматизации с использованием больших языковых моделей",
+      "brand": {
+        "@id": "https://ai.productquant.ru/#organization"
+      },
+      "category": "Business Guide",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "RUB",
+        "availability": "https://schema.org/InStock",
+        "url": "https://ai.productquant.ru/AI-Automation-Readiness-Assessment.pdf"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "127"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ai.productquant.ru/#local-business",
+      "name": "AI Automation Russia",
+      "description": "Консалтинг по внедрению ИИ для российского бизнеса",
+      "url": "https://ai.productquant.ru",
+      "telephone": "+7-925-211-2802",
+      "email": "hello@productquant.ru",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "RU",
+        "addressLocality": "Москва",
+        "addressRegion": "Remote Business"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday", 
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "18:00",
+        "timeZone": "Europe/Moscow"
+      },
+      "priceRange": "₽₽₽",
+      "servedCuisine": "AI Consulting"
+    }
+  ]
+}

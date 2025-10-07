@@ -1,0 +1,63 @@
+# Robots.txt for AI Automation Russia - ai.productquant.ru
+# Optimized for Yandex and Russian search engines
+
+User-agent: *
+Allow: /
+
+# Specific settings for Yandex
+User-agent: Yandex
+Allow: /
+Crawl-delay: 1
+
+# Specific settings for YandexBot
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 1
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Sitemap locations
+Sitemap: https://ai.productquant.ru/sitemap.xml
+
+# Allow search engines to crawl important pages
+Allow: /
+Allow: /ai-sprints
+Allow: /calculator
+Allow: /about
+Allow: /contact
+Allow: /industries/
+Allow: /services/
+Allow: /use-cases/
+
+# Allow PDF downloads
+Allow: /AI-Automation-Readiness-Assessment.pdf
+
+# Block access to development and system files
+Disallow: /src/
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /dist/
+Disallow: /backend/
+Disallow: /.env
+Disallow: /package.json
+Disallow: /tsconfig.json
+Disallow: /vite.config.ts
+
+# Block temporary files
+Disallow: /*.tmp
+Disallow: /*.log
+
+# Allow Yandex to access verification files
+Allow: /yandex_verification.html
+Allow: /yandex*
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1
+
+# Host directive for Yandex (canonical domain)
+Host: ai.productquant.ru

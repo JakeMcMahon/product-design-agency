@@ -1,0 +1,238 @@
+{
+  "keyword": "аудит бизнес-процессов ИИ",
+  "location": "Москва",
+  "timestamp": "2025-09-23T12:52:58.618Z",
+  "competitors": [
+    {
+      "query": "аудит бизнес-процессов ИИ Москва",
+      "top_results": [],
+      "analysis_needed": true,
+      "scrape_targets": []
+    }
+  ],
+  "serp_analysis": {},
+  "content_gaps": [
+    {
+      "topic": "Implementation timelines",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Cost breakdown and ROI calculations",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Technical requirements and integration",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Industry-specific case studies",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Comparison with manual processes",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Data security and compliance",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Maintenance and support options",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Training and onboarding process",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    }
+  ],
+  "semantic_keywords": [
+    {
+      "keyword": "аудит consulting Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит implementation Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит services Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит solutions Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит automation Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит integration Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит optimization Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит консультинг Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит внедрение Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит услуги Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит решения Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит consulting Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит implementation Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит services Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит solutions Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит automation Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит integration Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит optimization Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит консультинг Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "аудит внедрение Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    }
+  ],
+  "recommendations": [
+    {
+      "category": "Content Structure",
+      "recommendation": "Create comprehensive service landing page with clear value proposition",
+      "priority": "high",
+      "implementation": "Use SEOServiceTemplate with customized sections"
+    },
+    {
+      "category": "Local SEO",
+      "recommendation": "Emphasize Moscow/Russia market focus throughout content",
+      "priority": "high",
+      "implementation": "Include location terms in headings, content, and meta descriptions"
+    },
+    {
+      "category": "Technical SEO",
+      "recommendation": "Implement schema markup for local business and services",
+      "priority": "medium",
+      "implementation": "Add structured data to service pages"
+    },
+    {
+      "category": "Content Depth",
+      "recommendation": "Address identified content gaps with detailed sections",
+      "priority": "medium",
+      "implementation": "Expand template with FAQ, process explanation, case studies"
+    },
+    {
+      "category": "Internal Linking",
+      "recommendation": "Create topic clusters linking related AI services",
+      "priority": "medium",
+      "implementation": "Link between service pages, use cases, and industry pages"
+    }
+  ]
+}

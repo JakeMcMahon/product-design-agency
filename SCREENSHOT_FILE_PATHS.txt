@@ -1,0 +1,18 @@
+# Responsive Screenshots File Paths
+
+## Base Directory
+/root/projects/ai-automation-ru-final/responsive-screenshots/
+
+## Device Directories
+1. MacBook Pro 16 inch: /root/projects/ai-automation-ru-final/responsive-screenshots/macbook-pro-16-inch/
+2. MacBook Air 13 inch: /root/projects/ai-automation-ru-final/responsive-screenshots/macbook-air-13-inch/
+3. iPad Pro (Tablet): /root/projects/ai-automation-ru-final/responsive-screenshots/ipad-pro-(tablet)/
+4. iPhone 14 Pro (Mobile): /root/projects/ai-automation-ru-final/responsive-screenshots/iphone-14-pro-(mobile)/
+5. iPhone SE (Small Mobile): /root/projects/ai-automation-ru-final/responsive-screenshots/iphone-se-(small-mobile)/
+
+## Screenshot Files Available for Each Device
+- full-page.png - Complete page screenshot
+- timeline-cards.png - Timeline section
+- stats-cards.png - Statistics section
+- pricing-cards.png - Pricing section (if available)
+- header.png - Header/navigation section

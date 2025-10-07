@@ -1,0 +1,238 @@
+{
+  "keyword": "чат-боты для бизнеса",
+  "location": "Москва",
+  "timestamp": "2025-09-23T12:19:31.937Z",
+  "competitors": [
+    {
+      "query": "чат-боты для бизнеса Москва",
+      "top_results": [],
+      "analysis_needed": true,
+      "scrape_targets": []
+    }
+  ],
+  "serp_analysis": {},
+  "content_gaps": [
+    {
+      "topic": "Implementation timelines",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Cost breakdown and ROI calculations",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Technical requirements and integration",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Industry-specific case studies",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Comparison with manual processes",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Data security and compliance",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Maintenance and support options",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    },
+    {
+      "topic": "Training and onboarding process",
+      "priority": "medium",
+      "research_needed": true,
+      "sources": []
+    }
+  ],
+  "semantic_keywords": [
+    {
+      "keyword": "чат-боты consulting Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты implementation Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты services Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты solutions Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты automation Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты integration Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты optimization Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты консультинг Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты внедрение Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты услуги Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты решения Moscow",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты consulting Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты implementation Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты services Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты solutions Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты automation Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты integration Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты optimization Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты консультинг Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    },
+    {
+      "keyword": "чат-боты внедрение Russia",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "intent": "commercial",
+      "priority": "medium"
+    }
+  ],
+  "recommendations": [
+    {
+      "category": "Content Structure",
+      "recommendation": "Create comprehensive service landing page with clear value proposition",
+      "priority": "high",
+      "implementation": "Use SEOServiceTemplate with customized sections"
+    },
+    {
+      "category": "Local SEO",
+      "recommendation": "Emphasize Moscow/Russia market focus throughout content",
+      "priority": "high",
+      "implementation": "Include location terms in headings, content, and meta descriptions"
+    },
+    {
+      "category": "Technical SEO",
+      "recommendation": "Implement schema markup for local business and services",
+      "priority": "medium",
+      "implementation": "Add structured data to service pages"
+    },
+    {
+      "category": "Content Depth",
+      "recommendation": "Address identified content gaps with detailed sections",
+      "priority": "medium",
+      "implementation": "Expand template with FAQ, process explanation, case studies"
+    },
+    {
+      "category": "Internal Linking",
+      "recommendation": "Create topic clusters linking related AI services",
+      "priority": "medium",
+      "implementation": "Link between service pages, use cases, and industry pages"
+    }
+  ]
+}

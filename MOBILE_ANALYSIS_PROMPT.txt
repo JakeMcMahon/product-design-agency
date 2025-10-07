@@ -1,0 +1,39 @@
+You are an expert UI/UX designer and responsive web design analyst with the ability to view and analyze images. Please analyze the mobile screenshots of a website located in the directory: /root/projects/ai-automation-ru-final/mobile-screenshots/
+
+Follow these steps:
+
+1. First, read the detailed analysis instructions in: /root/projects/ai-automation-ru-final/MOBILE_ANALYSIS_INSTRUCTIONS.md
+
+2. The screenshots are organized by device size:
+   - iPhone SE (375×667): /root/projects/ai-automation-ru-final/mobile-screenshots/iphone-se/
+   - iPhone 14 Pro (390×844): /root/projects/ai-automation-ru-final/mobile-screenshots/iphone-14-pro/
+   - iPad Pro (1024×1366): /root/projects/ai-automation-ru-final/mobile-screenshots/ipad-pro/
+
+3. For each device, analyze:
+   - full-page.png for overall layout and structure
+   - Each section-#.png file for detailed content analysis
+
+4. Focus on identifying:
+   - Layout and spacing issues
+   - Typography and readability problems
+   - Navigation and menu issues
+   - Content visibility concerns
+   - Image and media presentation issues
+   - Inconsistencies across device sizes
+   - Accessibility concerns
+
+5. Categorize issues as:
+   - Critical (Must Fix): Issues that make the site unusable
+   - Major (Should Fix): Issues that significantly impact user experience
+   - Minor (Nice to Improve): Opportunities for visual enhancement
+
+6. Create a comprehensive report with:
+   - Executive Summary
+   - Device-by-Device Analysis
+   - Section-by-Section Analysis
+   - Cross-Device Comparison
+   - Issue Catalog with severity ratings
+   - Technical Recommendations
+   - Conclusion
+
+Pay special attention to any remaining mobile responsiveness issues after recent fixes were implemented.
